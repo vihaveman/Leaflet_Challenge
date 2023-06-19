@@ -3,10 +3,8 @@ body {
   margin: 0;
 }
 
-#map1,
-body,
-html {
-  height: 100%;
+#map {
+  height: 100vh;
 }
 
 .legend {
